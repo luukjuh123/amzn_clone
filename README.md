@@ -47,9 +47,10 @@ To make the basket work you need to deploy a backend on firebase and add the mul
         ```
 3. Third:
     Add a permissions.json file and at the following details (Can copy these details from Firebase):
+     ```
         {
         "type": "",
-        "project_id": ",
+        "project_id": "",
         "private_key_id": "",
         "private_key": "",
         "client_email": "",
@@ -59,3 +60,4 @@ To make the basket work you need to deploy a backend on firebase and add the mul
         "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
         "client_x509_cert_url": ""
         }
+ ```
