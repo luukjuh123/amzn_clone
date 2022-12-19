@@ -50,7 +50,7 @@ To make the basket work you need to deploy a backend on firebase and add the mul
      ```
         {
         "type": "",
-        "project_id": ",
+        "project_id": "",
         "private_key_id": "",
         "private_key": "",
         "client_email": "",
